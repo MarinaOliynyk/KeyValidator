@@ -9,9 +9,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [issue]()
-* [issue]()
-* [issue]()
+* [issue#1](https://github.com/MarinaOliynyk/KeyValidator/issues/1)
+* [issue#2](https://github.com/MarinaOliynyk/KeyValidator/issues/2)
+* [issue#3](https://github.com/MarinaOliynyk/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
@@ -30,6 +30,7 @@
 * Result for b295bc63-9f03-3b4b-af80-969b39f8c262: OK 
 * Result for 387eedc6-12e9-3b32-9881-63b6b5e85317: OK
 * Result for c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180: OK 
+
 * Result for 18252235-78e0-44a5-8720-556f0c7da17a: FAIL
 * Result for e66075b6-ddad-445e-baf6-161b3289522b: FAIL 
 * Result for b6d53250-f07e-4352-a293-6102ddf7f1ca: FAIL 
