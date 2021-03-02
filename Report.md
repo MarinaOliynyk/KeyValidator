@@ -9,9 +9,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [issue#1](https://github.com/MarinaOliynyk/KeyValidator/issues/1)
-* [issue#2](https://github.com/MarinaOliynyk/KeyValidator/issues/2)
-* [issue#3](https://github.com/MarinaOliynyk/KeyValidator/issues/3)
+* [Не пропускает валидные ключи при вводе в KeyValidator](https://github.com/MarinaOliynyk/KeyValidator/issues/2)
+* [Принимает невалидный ключ при вводе в приложении KeyValidator](https://github.com/MarinaOliynyk/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
